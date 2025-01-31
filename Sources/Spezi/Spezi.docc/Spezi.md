@@ -87,6 +87,9 @@ You can learn more about modules in the <doc:Module> documentation.
 
 ## Topics
 
+### Ecosystem Overview
+- <doc:Spezi_Ecosystem>
+
 ### Configuration
 
 - <doc:Initial-Setup>
